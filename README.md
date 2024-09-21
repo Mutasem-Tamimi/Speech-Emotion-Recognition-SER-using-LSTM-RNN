@@ -46,7 +46,7 @@ The core of the model is an **LSTM-RNN** (Long Short-Term Memory Recurrent Neura
 
 ## Results and Performance
 
-The model's performance is evaluated based on the accuracy of emotion classification. Metrics such as confusion matrices and accuracy scores are used to assess its effectiveness.
+The model's performance is evaluated based on the accuracy of emotion classification and achieves 99.06% accuracy on the test data. Metrics such as confusion matrices and accuracy scores are used to assess its effectiveness.
 
 ## Tools and Libraries
 
