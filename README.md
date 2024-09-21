@@ -53,3 +53,5 @@ The model's performance is evaluated based on the accuracy of emotion classifica
 -   Python
 -   TensorFlow/Keras
 -   Librosa (for audio processing)
+-   Scikit-learn (for data handling and evaluation)
+-   Seaborn
