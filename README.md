@@ -38,7 +38,7 @@ To improve model generalization and handle data scarcity, the following augmenta
 -   **Noise Augmentation**: Adds random noise to the audio signals.
 -   **Time-Stretching**: Speeds up or slows down the audio while maintaining pitch.
 -   **Pitch-Shifting**: Alters the pitch of the audio without changing its duration.
--   **Time-Shifting**: Shifts the audio signal slightly in time to introduce variety.
+-   **Time-Shifting**: Shifts the audio signal slightly in time to introduce variety.  
 
 ## Model Architecture
 
