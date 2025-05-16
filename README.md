@@ -42,11 +42,11 @@ To improve model generalization and handle data scarcity, the following augmenta
 
 ## Model Architecture
 
-The core of the model is an **LSTM-RNN** (Long Short-Term Memory Recurrent Neural Network) architecture. This architecture is well-suited for sequential data like speech because of its ability to capture temporal dependencies in audio features.
+The core of the model is an **Bidirectional LSTM**. This architecture is well-suited for sequential data like speech because of its ability to capture temporal dependencies in audio features.
 
 ## Results and Performance
 
-The model's performance is evaluated based on the accuracy of emotion classification and achieves 81.82% accuracy on the test data. Metrics such as confusion matrices and accuracy scores are used to assess its effectiveness.
+The model's performance is evaluated based on the accuracy of emotion classification and achieves **85% accuracy on the test data**. Metrics such as confusion matrices and accuracy scores are used to assess its effectiveness.
 
 ## Tools and Libraries
 
